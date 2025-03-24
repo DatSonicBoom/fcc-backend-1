@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.1.0",
 	"author": "BarbaraTables",
 	"description": "This is a test project to learn how to use Node and NPM a little bit.",
 	"keywords": ["freecodecamp", "test"],
