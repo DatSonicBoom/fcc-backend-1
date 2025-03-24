@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "BarbaraTables",
+	"description": "This is a test project to learn how to use Node and NPM a little bit.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
